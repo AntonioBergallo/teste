@@ -7,24 +7,27 @@ assignees: ''
 
 ---
 
-## Steps we recommend you follow
+## Very brief description of the problem
 
-### Give us the context
+### Context
 
-Tell us which dataset were you using when the error occured and if you downloaded the package from github, using DevTools, or  directly from CRAN. 
+Give us some context. Tell us:
 
-### Paste the code
+- Which dataset were you using when the error occured
+- If you downloaded the package from github, using DevTools, or directly from CRAN. 
 
-Please reproduce the exact same code that lead to the error. 
+### Code
 
-### Paste the error message and the output
+Please reproduce the exact same code that lead to the error here. 
+
+### Error message and Output
 
 The error message is vital for us to understand what went wrong. Report the output too, if existent.
 
-### Let us know your goal
+### Goals and Expectations
 
-Knowing what the users where expecting to receive as output before facing the error message can be really helpful to understand what went wrong and fix it.
+Knowing what the users where expecting to receive as output before facing the error message can be really helpful to understand what went wrong and fix it. Write them here, if possible
 
-### Make suggestions!
+### Suggestions!
 
-If you have any suggestions to fix the problem, we would be very happy to know! Don´t be ashamed to send it!
+If you have any suggestions to fix the problem, we would be very happy to know! Don´t be ashamed to send it! Overwrite this message with them.
