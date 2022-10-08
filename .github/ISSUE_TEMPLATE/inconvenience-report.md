@@ -20,7 +20,11 @@ Give us some context. Tell us:
 
 ### Code
 
-Please reproduce the exact same code that lead to the problem here. 
+Please reproduce the exact same code that lead to the problem here.  It is vital that this code is a **reprex**, so that we can work on it from our computers. If you are not familiar with the term "reprex", check https://www.tidyverse.org/help/#reprex.
+
+```r
+# insert code here
+```
 
 ### Description of problem
 
