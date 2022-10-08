@@ -1,5 +1,5 @@
 ---
-name: Inconvenience report
+name: Inconvenience report - EN
 about: Report any problem faced while installing or using our package
 title: Incovenience with <FUNCTION> - <DATASET>
 labels: enhancement
@@ -9,7 +9,7 @@ assignees: ''
 
 # Give a brief description of the problem
 
-##Warning: This template is destined to report inconveniences or problems of any nature found. However, **errors** itself should be reported using the **"Error report"** template
+### Warning: This template is destined to report inconveniences or problems of any nature found. However, **errors** itself should be reported using the **"Error report"** template
 
 ### Context
 

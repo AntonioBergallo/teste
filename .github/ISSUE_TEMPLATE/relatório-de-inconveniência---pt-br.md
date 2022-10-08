@@ -1,5 +1,5 @@
 ---
-name: Relatório de inconveniência
+name: Relatório de inconveniência - PT/BR
 about: Relate qualquer problema encontrado enquanto instalava ou usava nosso pacote
 title: Problema em <FUNÇÃO> - <DATASET>
 labels: enhancement
