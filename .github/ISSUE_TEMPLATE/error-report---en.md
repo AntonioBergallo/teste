@@ -1,5 +1,5 @@
 ---
-name: Error report
+name: Error report - EN
 about: Report any error message deployed while installing or using our package
 title: Error in <FUNCTION> - <DATASET>
 labels: bug
@@ -18,7 +18,7 @@ Give us some context. Tell us:
 
 ### Code
 
-Please reproduce the exact same code that lead to the error here.  It is vital that this code is a **reprex**, so that we can work on it from our computers. If you are not familiar with the term "reprex", check https://www.tidyverse.org/help/#reprex.
+Please reproduce the exact same code that lead to the error here. It is crucial that this code is a **reprex**, so that we can work on it from our computers. If you are not familiar with the term "reprex", check https://www.tidyverse.org/help/#reprex.
 
 ```r
 # insert code here
@@ -30,7 +30,7 @@ The error message is vital for us to understand what went wrong. Report the outp
 
 ### Goals and Expectations
 
-Knowing what the users where expecting to receive as output before facing the error message can be really helpful to understand what went wrong and fix it. Write them here, if possible
+Knowing what the users where expecting to receive as output before facing the error message can be really helpful to understand the error and fix it. Write them here, if possible
 
 ### Suggestions!
 
